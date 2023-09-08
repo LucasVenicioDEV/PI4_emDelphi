@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2023/08/23 14:12:01.000.506,=C:\Users\Previx\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2023/08/29 17:15:21.000.622,=C:\Users\Previx\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2023/08/29 17:16:03.000.600,C:\Users\Previx\Desktop\Lucas DEV\PI4 em Delphi\UnitPrincipal.dfm=C:\Users\Previx\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2023/08/29 17:16:03.000.600,C:\Users\Previx\Desktop\Lucas DEV\PI4 em Delphi\UnitPrincipal.pas=C:\Users\Previx\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2023/08/29 17:16:11.000.896,C:\Users\Previx\Desktop\Lucas DEV\PI4 em Delphi\ProjectPI4.dproj=C:\Users\Previx\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2023/08/30 14:41:07.000.751,=C:\Users\Previx\Desktop\Lucas DEV\PI4 em Delphi\Unit2.pas</Transaction>
+    <Transaction>2023/08/30 14:44:02.000.510,C:\Users\Previx\Desktop\Lucas DEV\PI4 em Delphi\Unit2.dfm=C:\Users\Previx\Desktop\Lucas DEV\PI4 em Delphi\UnitRecuperarSe.dfm</Transaction>
+    <Transaction>2023/08/30 14:44:02.000.510,C:\Users\Previx\Desktop\Lucas DEV\PI4 em Delphi\Unit2.pas=C:\Users\Previx\Desktop\Lucas DEV\PI4 em Delphi\UnitRecuperarSe.pas</Transaction>
+    <Transaction>2023/08/30 14:44:08.000.654,C:\Users\Previx\Desktop\Lucas DEV\PI4 em Delphi\UnitRecuperarSe.dfm=C:\Users\Previx\Desktop\Lucas DEV\PI4 em Delphi\UnitRecuperarSenha.dfm</Transaction>
+    <Transaction>2023/08/30 14:44:08.000.654,C:\Users\Previx\Desktop\Lucas DEV\PI4 em Delphi\UnitRecuperarSe.pas=C:\Users\Previx\Desktop\Lucas DEV\PI4 em Delphi\UnitRecuperarSenha.pas</Transaction>
+    <Transaction>2023/08/30 14:49:07.000.787,C:\Users\Previx\Desktop\Lucas DEV\PI4 em Delphi\UnitRecuperarSenha.pas=</Transaction>
+    <Transaction>2023/08/30 15:58:46.000.443,=C:\Users\Previx\Desktop\Lucas DEV\PI4 em Delphi\Unit1.pas</Transaction>
+    <Transaction>2023/08/30 15:58:59.000.684,C:\Users\Previx\Desktop\Lucas DEV\PI4 em Delphi\Unit1.pas=C:\Users\Previx\Desktop\Lucas DEV\PI4 em Delphi\UnitDM.pas</Transaction>
+    <Transaction>2023/08/30 15:58:59.000.684,C:\Users\Previx\Desktop\Lucas DEV\PI4 em Delphi\Unit1.dfm=C:\Users\Previx\Desktop\Lucas DEV\PI4 em Delphi\UnitDM.dfm</Transaction>
+    <Transaction>2023/08/30 15:59:10.000.159,=C:\Users\Previx\Desktop\Lucas DEV\PI4 em Delphi\Unit1.pas</Transaction>
+    <Transaction>2023/08/30 15:59:20.000.929,C:\Users\Previx\Desktop\Lucas DEV\PI4 em Delphi\Unit1.dfm=C:\Users\Previx\Desktop\Lucas DEV\PI4 em Delphi\UnitCadastroCarro.dfm</Transaction>
+    <Transaction>2023/08/30 15:59:20.000.929,C:\Users\Previx\Desktop\Lucas DEV\PI4 em Delphi\Unit1.pas=C:\Users\Previx\Desktop\Lucas DEV\PI4 em Delphi\UnitCadastroCarro.pas</Transaction>
+    <Transaction>2023/08/30 15:59:25.000.328,=C:\Users\Previx\Desktop\Lucas DEV\PI4 em Delphi\Unit2.pas</Transaction>
+    <Transaction>2023/08/30 15:59:38.000.224,C:\Users\Previx\Desktop\Lucas DEV\PI4 em Delphi\Unit2.pas=C:\Users\Previx\Desktop\Lucas DEV\PI4 em Delphi\UnitCadastroUsuarios.pas</Transaction>
+    <Transaction>2023/08/30 15:59:38.000.224,C:\Users\Previx\Desktop\Lucas DEV\PI4 em Delphi\Unit2.dfm=C:\Users\Previx\Desktop\Lucas DEV\PI4 em Delphi\UnitCadastroUsuarios.dfm</Transaction>
+    <Transaction>2023/08/30 16:04:15.000.096,C:\Users\Previx\Desktop\Lucas DEV\PI4 em Delphi\UnitCadastroUsuarios.dfm=C:\Users\Previx\Desktop\Lucas DEV\PI4 em Delphi\UnitCadastroUsuario.dfm</Transaction>
+    <Transaction>2023/08/30 16:04:15.000.096,C:\Users\Previx\Desktop\Lucas DEV\PI4 em Delphi\UnitCadastroUsuarios.pas=C:\Users\Previx\Desktop\Lucas DEV\PI4 em Delphi\UnitCadastroUsuario.pas</Transaction>
+    <Transaction>2023/09/01 15:17:13.000.810,=C:\Users\Previx\Desktop\Lucas DEV\PI4 em Delphi\Unit3.pas</Transaction>
+    <Transaction>2023/09/01 15:31:32.000.568,=C:\Users\Previx\Desktop\Lucas DEV\PI4 em Delphi\Unit1.pas</Transaction>
+    <Transaction>2023/09/01 15:40:33.000.889,C:\Users\Previx\Desktop\Lucas DEV\PI4 em Delphi\UnitClasseCarro.pas=C:\Users\Previx\Desktop\Lucas DEV\PI4 em Delphi\Unit1.pas</Transaction>
+    <Transaction>2023/09/01 16:39:19.000.627,=C:\Users\Previx\Desktop\Lucas DEV\PI4 em Delphi\Unit1.pas</Transaction>
+    <Transaction>2023/09/01 16:53:39.000.467,C:\Users\Previx\Desktop\Lucas DEV\PI4 em Delphi\UnitClasseUsuario.pas=C:\Users\Previx\Desktop\Lucas DEV\PI4 em Delphi\Unit1.pas</Transaction>
+    <Transaction>2023/09/08 15:08:05.935,=C:\Users\Previx\Desktop\Lucas DEV\PI4 em Delphi\Unit1.pas</Transaction>
+    <Transaction>2023/09/08 15:08:20.133,C:\Users\Previx\Desktop\Lucas DEV\PI4 em Delphi\UnitAreaAdmin.pas=C:\Users\Previx\Desktop\Lucas DEV\PI4 em Delphi\Unit1.pas</Transaction>
+    <Transaction>2023/09/08 15:08:20.133,C:\Users\Previx\Desktop\Lucas DEV\PI4 em Delphi\UnitAreaAdmin.dfm=C:\Users\Previx\Desktop\Lucas DEV\PI4 em Delphi\Unit1.dfm</Transaction>
+  </Transactions>
+</BorlandProject>
